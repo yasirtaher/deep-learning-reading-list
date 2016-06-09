@@ -2,7 +2,7 @@
 
 ###Books
   * [Deep Learning](http://www.deeplearningbook.org/), Yoshua Bengio, Ian Goodfellow, Aaron Courville, MIT Press, In preparation.
-  
+ 
 ### Blogs
   * [Christopher Olah’s blog](http://colah.github.io/)
   * [Adrian Coyler’s blog](https://blog.acolyer.org/)
