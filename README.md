@@ -1,6 +1,7 @@
 #Reading List
 ### Courses
   *  [Stanford’s CS224D](http://cs224d.stanford.edu/syllabus.html)
+  *  [Course notes from Stanford CS 231N](http://cs231n.github.io/)a
    
 ### Books
   * [Deep Learning](http://www.deeplearningbook.org/), Yoshua Bengio, Ian Goodfellow, Aaron Courville, MIT Press, In preparation.
